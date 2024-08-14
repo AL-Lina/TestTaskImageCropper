@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TestTaskImageCropper
-//
-//  Created by Alina Sakovskaya on 13.08.24.
-//
-
 import UIKit
 
 @main
